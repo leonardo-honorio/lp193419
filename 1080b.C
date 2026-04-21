@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, Turma IB, 2026S1
+Nome        : Leonardo Rissato Honório
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1080
+Data        : 21/04/2026
+Objetivo    : Ler uma quantia de números inteiros e apresentar o maior entre eles, junto com a posição, utilizando um vetor
+Aprendizado : Apresentar o maior valor lido e a sua posição
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 
 int main() {
