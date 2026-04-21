@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, Turma IB, 2026S1
+Nome        : Leonardo Rissato Honório
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/2758
+Data        : 21/04/2026
+Objetivo    : Criar variáveis de precisão simples e dupla, ler valores e apresentar com diferentes casas decimais, notação científica...
+Aprendizado : Apresentação de valores de diferentes maneiras
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 
 int main()
