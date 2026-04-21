@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, Turma IB, 2026S1
+Nome        : Leonardo Rissato Honório
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1071
+Data        : 21/04/2026
+Objetivo    : Ler dois valores inteiros e calcular a soma dos números ímpares entre eles
+Aprendizado : Utilizar a função "for" para calcular a soma dos números ímpares entre dois inteiros
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 
 int main() {
