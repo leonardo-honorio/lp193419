@@ -1,7 +1,7 @@
 /* --------------------------------------------------------------------------
 Disciplina  : Lógica de Programação, Turma IB, 2026S1
 Nome        : Leonardo Rissato Honório
-Linguagem   : C
+Linguagem   : C++
 Problema    : https://judge.beecrowd.com/pt/problems/view/1031
 Data        : 23/06/2026
 Objetivo    : Determinar o menor valor de salto m que faz com que a região 13 seja a última região restante após sucessivas eliminações circulares
