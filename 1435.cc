@@ -1,7 +1,7 @@
 /* --------------------------------------------------------------------------
 Disciplina  : Lógica de Programação, Turma IB, 2026S1
 Nome        : Leonardo Rissato Honório
-Linguagem   : C
+Linguagem   : C++
 Problema    : https://judge.beecrowd.com/pt/problems/view/1435
 Data        : 23/06/2026
 Objetivo    : Construir uma matriz quadrada
