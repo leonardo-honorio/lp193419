@@ -1,7 +1,7 @@
 /* --------------------------------------------------------------------------
 Disciplina  : Lógica de Programação, Turma IB, 2026S1
 Nome        : Leonardo Rissato Honório
-Linguagem   : C
+Linguagem   : C++
 Problema    : https://judge.beecrowd.com/pt/problems/view/2552
 Data        : 23/06/2026
 Objetivo    : Praticar matrizes bidimensionais, percorrendo células e contando elementos adjacentes em quatro direções
